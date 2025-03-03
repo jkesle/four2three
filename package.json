@@ -1,0 +1,16 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js -- "
+  },
+  "keywords": [],
+  "author": "jkesle",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
